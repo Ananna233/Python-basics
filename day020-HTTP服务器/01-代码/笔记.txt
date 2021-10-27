@@ -1,0 +1,6 @@
+http协议：HyperText Transfer Protocol超文本传输协议
+协议的作用就是用来传输超文本 HTML(HyperTextMarkuplanguage)
+
+HTML :超文本标记语言
+
+HTTP :用来传输超文本的一个协议

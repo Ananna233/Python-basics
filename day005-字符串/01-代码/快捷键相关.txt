@@ -1,0 +1,11 @@
+双击 shift 会弹出全局搜索功能 JetBrains开发的工具很多都有这个功能
+关闭这个功能：双击shift打开全局搜索功能--》选actions--》输入registry回车--》找ide.suppress.double.hander 勾选
+重新启用：打开全局搜索Ctrl+shift+A 找到ide.suppress.double.hander 勾选
+
+快速格式化代码(Reformat Code) Ctrl+Alt+L  将代码规范化==》操作符两边要加空格
+快速复制粘贴选中的代码 Ctrl+D
+移动一行代码 Ctrl/Alt+shift+上下箭头
+
+查找快捷键：File-->Settings(Ctrl+Alt+S)-->keymap-->搜索
+快速切换代码窗口：Alt+左右方向键
+快速到一行代码的最前/最后：HOME/END
