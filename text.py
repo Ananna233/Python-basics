@@ -2,6 +2,4 @@ import re
 
 ye = re.match(r'\d+','.45')
 print(ye)
-
-a = '+.4e2'
-print(float(a))
+print(type((i for i in range(10))))
