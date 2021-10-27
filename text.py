@@ -6,3 +6,4 @@ print(type((i for i in range(10))))
 print(type((i for i in range(10))))
 
 print('hot-fix')
+print('master test')
